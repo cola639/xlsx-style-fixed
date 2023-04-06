@@ -1,6 +1,6 @@
 {
   "name": "xlsx-style-fixedver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "cola639",
   "description": "xlsx-style-fixedver 修复 xlsx-style 存在的引入 bug 和支持 contentWs['!rows'] = [{ hch: number},{ hch: number}...] 形式写入每行(即 rows)的高度",
   "keywords": [

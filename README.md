@@ -1,6 +1,7 @@
 # xlsx-style-fixedver
 
-xlsx-style-fixedver 修复 xlsx-style 存在的引入 bug 和支持 contentWs['!rows'] = [{ hch: number},{ hch: number}...] 形式写入每行(即 rows)的高度
+xlsx-style-fixedver 修复 xlsx-style 存在的引入 bug
+支持 contentWs['!rows'] = [{ hch: number},{ hch: number}...] 形式写入每行(即 rows)的高度
 
 # About this fork
 
@@ -40,7 +41,7 @@ Source: <http://git.io/xlsx>
 With [npm](https://www.npmjs.org/package/xlsx-style):
 
 ```sh
-npm install xlsx-style --save
+npm install xlsx-style-fixedver --save
 ```
 
 In the browser:
