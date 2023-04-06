@@ -1,7 +1,9 @@
 # xlsx-style-fixedver
 
-xlsx-style-fixedver 修复 xlsx-style 存在的引入 bug
-支持 contentWs['!rows'] = [{ hch: number},{ hch: number}...] 形式写入每行(即 rows)的高度
+xlsx-style-fixedver 修复 xlsx-style bug:
+
+- 修复 Can't resolve './cptable'
+- 支持 contentWs['!rows'] = [ { hch: number} , { hch: number}...] 形式写入每行(即 rows)的高度
 
 # About this fork
 
