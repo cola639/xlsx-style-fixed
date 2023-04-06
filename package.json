@@ -1,8 +1,8 @@
 {
   "name": "xlsx-style-fixedver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "cola639",
-  "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
+  "description": "xlsx-style-fixedver 修复 xlsx-style 存在的引入 bug 和支持 contentWs['!rows'] = [{ hch: number},{ hch: number}...] 形式写入每行(即 rows)的高度",
   "keywords": [
     "excel",
     "xls",
